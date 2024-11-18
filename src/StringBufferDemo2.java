@@ -8,7 +8,7 @@ public class StringBufferDemo2
 		System.out.println(s1);
 		StringBuffer s2 = new StringBuffer("technologies");
 		System.out.println(s2);
-		System.out.println(""+s1+s2);
+		System.out.println(s1+""+s2);
 		
 
 	}

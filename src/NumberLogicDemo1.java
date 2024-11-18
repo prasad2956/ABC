@@ -13,7 +13,7 @@ public class NumberLogicDemo1
 		System.out.println(4567895%10);//get the last digit
 		//456 7
 		System.out.println((456*10)+7);//(number*10)+digit
-		//0,1,1,2,3,5,8,13  fibonaccis series
+		//0,1,1,2,3,5,8,13  fibonacci series
 		//prime number
 	}
 
